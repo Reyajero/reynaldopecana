@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@800&display=swap');
+
+html{ 
+   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.65);
+   background-image: url(3.png);
+   background-size: cover;
+}
+div{
+    margin-top: 150px;
+    font-size: 50px;
+    text-align: left;
+    margin-left: 550px ;
+    color: rgb(247, 225, 225);
+    font-family: 'Noto Sans', sans-serif;
+}
+p{
+    text-align: left;
+    color: white;
+    letter-spacing: 1.5px;
+    margin-top: 50px;
+    margin-left: 600px;
+}
+    .pic{
+        float: left;
+        width: 250px;
+        height: 250px;
+        margin-top: 0;
+        margin-left: 150px;
+    }
+h3{
+    margin-top: 120px;
+    text-align: center;
+    margin-right: 28em;
+    color: white;
+}
+.contact{
+    padding: 10px;
+    margin-left: 35em;
+    
+    
+}
+footer{
+    text-align: center;
+    margin-top: 130px;
+}
+    .fa{
+        color: white;
+        width: 60px;
+        height: 60px;
+        padding: 60px;
+    }
+    .fa-facebook,.fa-twitter,.fa-instagram{
+       padding: 20px;
+       height: 13px;
+    }
+    .fa:hover{
+        background-color: rgba(0, 0, 0, 0.3);
+    }
+nav.bullet{
+         text-align: left;
+         color: white;
+         letter-spacing: 1.5px;
+         margin-top: 50px;
+         margin-left: 550px;
+    }
